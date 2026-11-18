@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Mohammed Zimam 👋
 
-<!--
-**zimamDev/zimamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🎓 HNDIT Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring IT Professional
+
+🎨 Interested in UI/UX Design
+
+🌐 Interested in Web Development
+
+🚀 Currently looking for Internship Opportunities
+
+Technical Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Figma
+- Git & GitHub
+
+My Projects
+
+- Smart Logistics & Real-Time Delivery Management System
+- Jersey Customization & Ordering System
+
+Goals
+
+- Improve my technical skills.
+- Build real-world projects.
+- Gain industry experience.
+- Become a professional IT developer.
+
+Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mohammed-zimam-6a2452306?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+- GitHub: https://github.com/zimamDev
